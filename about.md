@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi there!
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+My name is Mehdy Khoshnoody. I am a python developer. 
+I mostly build web APIs using flask micro-framework.
+and I usually use PostgreSQL as primary database, redis for caching and temporary data storage, and Elasticsearch as my search engine.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I am also interested in many other technologies(languages, databases and etc) like 
+golang, erlang, rustlang, javascript, noSQL databases (cassandra, neo4j, mongo, ...), Artificial Intelligence(AI), Natural Language Processing(NLP), Computer Vision(CV), Linux, cloud computing, OpenStack, big data and almost every new technology :D
