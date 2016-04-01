@@ -26,3 +26,5 @@ I'm so interested in Artificial Intelligence(AI). I've tried to do some cool stu
 I really like cloud computing and big data stuffs and I try to get involved with it more. I use openstack by the way :)
 
 I use Arch linux, vim, zsh and ...
+
+anyway it's me. if you wanted to have a conversation, you can reach me out on me[at]mehdy.net
