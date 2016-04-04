@@ -194,7 +194,22 @@
     font-size: 24px;
 }
 
+.comments-link {
+    font-size: large;
+    color: darkslategray;
+}
 
+.comments-link:hover {
+    color: slategray;
+}
+
+.comments-link:visited {
+    color: lightslategray;
+}
+
+.post-tags {
+    display: inline;
+}
 
 /**
  * Posts
