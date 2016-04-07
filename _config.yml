@@ -20,3 +20,7 @@ github_username:  mehdy
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+gems:
+  - jekyll-sitemap
