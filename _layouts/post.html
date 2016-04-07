@@ -6,10 +6,26 @@ layout: default
   <header class="post-header">
     <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
     <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    <div>
+      tags:
+      <ul style="display: inline; margin-left: 0">
+        {% for tag in page.tags %}
+        <li class="post-tags">
+          <a href="#">{{ tag }}</a>{% if forloop.last == false %},{% endif %}
+        </li>
+        {% endfor %}</ul>
+    </div>
   </header>
-
   <div class="post-content" itemprop="articleBody">
     {{ content }}
+  </div>
+  <span class="share-label">Share this on</span>
+  <div class="share-page">
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="mehdy314" data-size="large">Tweet</a>
+    <div class="g-plus" data-action="share" data-annotation="none"
+         data-height="28" data-href="{{ site.url }}{{ page.url }}">G+ share</div>
+    <div class="fb-share-button" data-href="{{ site.url }}{{ page.url }}"
+    data-layout="button">FB share</div>
   </div>
   {% if page.comments %}
   <hr/>
@@ -29,5 +45,15 @@ layout: default
     })();
   </script>
   <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+  <script src="https://apis.google.com/js/platform.js" async defer></script>
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.5";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
   {% endif %}
 </article>
