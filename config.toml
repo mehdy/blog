@@ -1,0 +1,121 @@
+title = "The DevOps"
+baseurl = "https://mehdy.me"
+languageCode = "en-us"
+theme = "hugo-tranquilpeak-theme"
+
+googleAnalytics = "UA-53820126-3"
+
+disqusShortname = "the-devops"
+
+paginate = 10
+
+[permalinks]
+  post = "/:year/:month/:slug/"
+
+[author]
+  name = "Mehdy Khoshnoody"
+  bio = "A DevOps who cares too much about **maintainability** and **scalability**. Interested in microservices, cloud, big data, security, AI and IoT"
+  job = "DevOps @CafeBazaar"
+  location = "Iran, Tehran"
+  gravatarEmail = "me@mehdy.net"
+  twitter = "mehdy314"
+  googlePlus = "+MehdyKhoshnoody314"
+
+[taxonomies]
+  tag = "tags"
+  category = "categories"
+  archive = "archives"
+
+[[menu.main]]
+  weight = 0
+  identifier = "about"
+  name = "About"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
+  url = "/#about"
+[[menu.main]]
+  weight = 1
+  identifier = "home"
+  name = "Home"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
+  url = "/"
+[[menu.main]]
+  weight = 2
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  url = "/categories"
+[[menu.main]]
+  weight = 3
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+  url = "/tags"
+[[menu.main]]
+  weight = 4
+  identifier = "archives"
+  name = "Archives"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
+  url = "/archives"
+
+[[menu.links]]
+  weight = 0
+  identifier = "email"
+  name = "Email"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-envelope\"></i>"
+  url = "mailto:me@mehdy.net"
+[[menu.links]]
+  weight = 1
+  identifier = "github"
+  name = "GitHub"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
+  url = "https://github.com/mehdy"
+[[menu.links]]
+  weight = 2
+  identifier = "stackoverflow"
+  name = "Stack Overflow"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
+  url = "https://stackoverflow.com/users/3654352/mehdy"
+[[menu.links]]
+  weight = 3
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
+  url = "https://twitter.com/mehdy314"
+
+[[menu.misc]]
+  weight = 0
+  identifier = "rss"
+  name = "RSS"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-rss\"></i>"
+  url = "/index.xml"
+
+[params]
+  description = "The DevOps's insights about DevOps"
+  subtitle = "The DevOps's insights about DevOps"
+
+  clearReading = true
+
+  hierarchicalCategories = false
+
+  keywords = ["development", "devops", "microservice", "cloud", "scalability", "maintainability"]
+
+  sidebarBehavior = 1
+
+  coverImage = "cover-blur.jpg"
+
+  imageGallery = true
+
+  thumbnailImage = true
+  thumbnailImagePosition = "bottom"
+  autoThumbnailImage = true
+
+  [params.header.rightLink]
+    class = ""
+    icon = ""
+    url = "/#about"
+
+  [params.sidebar.profile]
+	url = "/#about"
+
+  [params.footer]
+	copyright = "<a href=\"https://mehdy.net\">Mehdy Khoshnoody</a>"
