@@ -118,4 +118,4 @@ paginate = 10
 	url = "/#about"
 
   [params.footer]
-	copyright = "<a href=\"https://mehdy.net\">Mehdy Khoshnoody</a>"
+	copyright = "<a href=\"https://mehdy.me\">Mehdy Khoshnoody</a>"
