@@ -78,6 +78,12 @@ paginate = 10
   url = "https://stackoverflow.com/users/3654352/mehdy"
 [[menu.links]]
   weight = 3
+  identifier = "linkedin"
+  name = "LinkedIn"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\"></i>"
+  url = "https://www.linkedin.com/in/mehdy314"
+[[menu.links]]
+  weight = 4
   identifier = "twitter"
   name = "Twitter"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
