@@ -1,6 +1,7 @@
 title = "The DevOps"
 baseurl = "https://mehdy.me"
 languageCode = "en-us"
+defaultContentLanguage = "en-us"
 theme = "hugo-tranquilpeak-theme"
 
 googleAnalytics = "UA-53820126-3"
@@ -106,8 +107,8 @@ paginate = 10
   imageGallery = true
 
   thumbnailImage = true
-  thumbnailImagePosition = "bottom"
-  autoThumbnailImage = true
+  # TODO: https://github.com/kakawait/hugo-tranquilpeak-theme/issues/127
+  thumbnailImagePosition = "left"
 
   [params.header.rightLink]
     class = ""
