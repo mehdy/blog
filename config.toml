@@ -16,7 +16,7 @@ paginate = 10
 [author]
   name = "Mehdy Khoshnoody"
   bio = "A DevOps who cares too much about **maintainability** and **scalability**. Interested in microservices, cloud, big data, security, AI and IoT"
-  job = "DevOps @CafeBazaar"
+  job = "SRE <a href=\"http://cafebazaar.ir\">@CafeBazaar</a>"
   location = "Iran, Tehran"
   gravatarEmail = "me@mehdy.net"
   twitter = "mehdy314"
