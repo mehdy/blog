@@ -1,16 +1,13 @@
----
-title: "The DevOps"
-date: 2017-03-10
-tags:
-- DevOps
-- Blog
-keywords:
-- DevOps
-thumbnailImagePosition: "top"
-thumbnailImage: /images/2017-03-the-devops-cover-800.jpg
-coverImage: /images/2017-03-the-devops-cover.jpg
-metaAlignment: center
----
++++
+title = "The DevOps"
+date = "2017-03-10"
+tags = ["DevOps", "Blog"]
+keywords = ["DevOps"]
+thumbnailImagePosition = "top"
+thumbnailImage = "/images/2017-03-the-devops-cover-800.jpg"
+coverImage = "/images/2017-03-the-devops-cover.jpg"
+metaAlignment = "center"
++++
 
 I decided to start bloging again. I saw myself in a new situation with new insights. so I came up with "The DevOps" blog idea.
 <!--more-->
