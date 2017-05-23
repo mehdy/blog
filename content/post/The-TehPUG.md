@@ -28,7 +28,7 @@ So when TehPUG was reactivated, I decided to have a talk every session as long a
 I don't remember exactly when, but at a point I decided to run an mentorship program as there were some people who knew python well and wanted to be mentor of someone who's starting to learning. I gathered about 30 people. I really don't know why but it disappeared!! The mentees were supposed to follow up the program but what I saw was that they didn't have any interests in the program and I was curious why did they registered to be part of it at first place? any thought on this?
 
 #### The Battlefield
-So far until now I have "[The talks](#the-talks)" that has been good but it just helps the meetup sessions be better, and a "[failed program](#the-mentorship-program)". So I thought of an idea to integrate the people more with TehPUG and each other. I call it "**Battlefield**". I'll write a detailed post about it soon.
+So far until now I have "[The talks](#the-talks)" that has been good but it just helps the meetup sessions be better, and a "[failed program](#the-mentorship-program)". So I thought of an idea to integrate the people more with TehPUG and each other. I call it "**[Battlefield](/2017/05/the-battlefield/)**". I'll write a detailed post about it soon.
 
 I'd be happy if you let me know what do you think.
 
