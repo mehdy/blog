@@ -4,7 +4,7 @@ languageCode = "en-us"
 defaultContentLanguage = "en-us"
 theme = "hugo-tranquilpeak-theme"
 
-googleAnalytics = "UA-53820126-3"
+googleAnalytics = "UA-105166695-1"
 
 disqusShortname = "the-devops"
 
