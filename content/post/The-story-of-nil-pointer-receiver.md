@@ -49,9 +49,9 @@ func (g *Gender) Scan(src interface{}) (err error) {
 
 func (g Gender) Value() (value driver.Value, err error) {
 	if g == MALE || g == FEMALE || g == OTHER {
-		return nil, fmt.Errorf("Invalid Gender value: %q", g)
+		return string(g), nil
 	}
-	return string(g), nil
+	return nil, fmt.Errorf("Invalid Gender value: %q", g)
 }
 ```
 Now let's use our `Gender` type in the user model:
