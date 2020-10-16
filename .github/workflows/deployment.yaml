@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout the blog
         uses: actions/checkout@v2
+        with:
+          submodules: true
       
       - name: Checkout the deployment repo
         uses: actions/checkout@v2
