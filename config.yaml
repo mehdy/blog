@@ -22,8 +22,8 @@ permalinks:
   posts: /posts/:year/:month/:slug/
 
 taxonomies:
-  tag: tags
-  archive: archives
+  tags: tags
+  archives: archives
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
