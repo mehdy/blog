@@ -1,0 +1,28 @@
+baseURL: https://mehdy.me/
+title: Mehdy Khoshnoody
+
+defaultContentLanguageInSubdir: true
+defaultContentLanguage: en
+languageCode: en
+languageName: English
+
+theme: PaperMod
+
+paginate: 10
+
+googleAnalytics: UA-171541179-1
+
+enableRobotsTXT: true
+
+disqusShortname: mehdy
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+permalinks:
+  posts: /posts/:year/:month/:slug/
+
+taxonomies:
+  tags: tags
+  archives: archives

@@ -1,0 +1,31 @@
+env: production # to enable google analytics, opengraph, twitter-cards and schema.
+title: Mehdy Khoshnoody
+description: Passionate about software architecture, startups and leadership.
+author: Mehdy Khoshnoody
+
+rssFullContent: true
+
+images: 
+  - images/avatar.jpg
+
+ShowReadingTime: true
+ShowShareButtons: true
+comments: true
+defaultTheme: auto
+disableSpecial1stPost : true
+
+homeInfoParams:
+  Title: Mehdy Khoshnoody
+  Content: Passionate about software architecture, startups and leadership.
+
+socialIcons:
+  - name: twitter
+    url: https://twitter.com/mehdy314
+  - name: stackoverflow
+    url: https://stackoverflow.com/users/3654352/mehdy
+  - name: github
+    url: https://github.com/mehdy
+  - name: linkedin
+    url: https://www.linkedin.com/in/mehdy314
+  - name: email
+    url: mailto:mehdy.khoshnoody+blog@gmail.com
