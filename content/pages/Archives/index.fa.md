@@ -1,3 +1,4 @@
 ---
 layout: archives
+slug: archives
 ---

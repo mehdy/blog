@@ -22,6 +22,7 @@ minify:
 
 permalinks:
   posts: /posts/:year/:month/:slug/
+  pages: /:slug/
 
 taxonomies:
   tags: tags
