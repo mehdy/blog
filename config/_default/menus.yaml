@@ -1,12 +1,12 @@
 main:
   - weight: 1
-    identifier: about
-    name: About Me
-    url: /about-me/
-  - weight: 3
     identifier: home
     name: Home
     url: /
+  - weight: 3
+    identifier: about
+    name: About Me
+    url: /about-me/
   - weight: 4
     identifier: tags
     name: Tags
