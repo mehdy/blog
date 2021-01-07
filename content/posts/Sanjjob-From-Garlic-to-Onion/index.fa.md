@@ -4,7 +4,7 @@ date: 2020-11-09T22:30:00+03:30
 lastmod: 2020-11-09T22:30:00+03:30
 tags: ['سنجاب', 'رزومه', 'پروژه', 'مصاحبه']
 cover:
-    image: sanjjob-logo.svg
+    image: sanjjob-logo.png
     alt: لوگو سنجاب
     relative: true
 ---
