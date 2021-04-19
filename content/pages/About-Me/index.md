@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 date: 2020-10-23T14:15:00+03:30
-lastmod: 2020-10-23T14:15:00+03:30
+lastmod: 2021-04-19T20:00:00+03:30
 cover:
     image: avatar.jpg
     alt: Picture of Mehdy Khoshnoody
@@ -9,7 +9,7 @@ cover:
 ---
 
 I guess you know my name by now. I started playing with code when I was 10 and I've been enchanted with software since then.  
-I am super-passionate about **software architecture**, **leadership** and **startups**. I spend a lot of time on reading books and articles, watching tech talks and experimenting on these subjects.  
+I am super-passionate about **software engineering**, **startups** and **leadership**. I spend a lot of time on reading books and articles, watching tech talks and experimenting on these subjects.  
 In my spare time, I'm mostly building software and contributing to open source softwares. I like to watch movies and series a lot. And last but not least, I try to keep blogging.
 
 A brief history of my career so far.
