@@ -14,9 +14,9 @@ In my spare time, I'm mostly building software and contributing to open source s
 
 A brief history of my career so far.
 
-* Currently, I'm a software engineer at [Divar](https://divar.ir)'s core team since May 2020 and team leader since Oct 2020.
-* Formerly, I was working on **cloud storage** technologies and **databases** with different roles (software engineer, product manager and team leader) throught the years at [Zeerak](https://zeerak.ir) (a.k.a Cafe Bazaar Cloud) from March 2017 to May 2020.
-* Working on a private cloud infrastructure by mostly developing and maintaing **Kubernetes** clusters at [Zeerak](https://zeerak.ir) (a.k.a Cafe Bazaar Cloud) from May 2016 to March 2017.
+* Currently, I'm a director of engineering at [Divar](https://divar.ir) since June 2021 and a software engineer since May 2020.
+* Formerly, I was working on **cloud storage** technologies and **databases** with different roles (software engineer, product manager and team leader) throught the years at [Sotoon](https://sotoon.ir) (a.k.a Cafe Bazaar Cloud) from March 2017 to May 2020.
+* Working on a private cloud infrastructure by mostly developing and maintaing **Kubernetes** clusters at [Sotoon](https://sotoon.ir) (a.k.a Cafe Bazaar Cloud) from May 2016 to March 2017.
 * As software engineer at Khak Co. from May 2014 to April 2016, I was mostly developing and maintaing software services.
 
 ## Services
