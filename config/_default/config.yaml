@@ -20,6 +20,11 @@ minify:
   disableXML: true
   minifyOutput: true
 
+outputs:
+  home:
+    - HTML
+    - RSS
+
 permalinks:
   posts: /posts/:year/:month/:slug/
   pages: /:slug/
