@@ -9,6 +9,10 @@ If you didn't find any of the services suitalble for you and you were still will
 
 > *If you want to get to know me better, you can read [about me]({{< ref "/pages/about-me" >}}).*
 
+## Angel Investment
+
+If you're looking for someone to invest in your **startup**, by providing both capital and **coaching**. I may be able to help you.
+
 ## Professional Consulting
 
 If you're facing these kind of problems I may be able to help you.
