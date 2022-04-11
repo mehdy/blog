@@ -1,7 +1,7 @@
 env: production # to enable google analytics, opengraph, twitter-cards and schema.
-title: Mehdy Khoshnoody
+title: Mehdi Khoshnoodi
 description: Passionate about software engineering, startups and leadership.
-author: Mehdy Khoshnoody
+author: Mehdi Khoshnoodi
 
 rssFullContent: true
 
@@ -15,7 +15,7 @@ defaultTheme: auto
 disableSpecial1stPost: true
 
 homeInfoParams:
-  Title: Mehdy Khoshnoody
+  Title: Mehdi Khoshnoodi
   Content: Passionate about software engineering, startups and leadership.
 
 socialIcons:
