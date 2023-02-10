@@ -1,7 +1,7 @@
 ---
 title: Can You Solve This?
-date: 2022-02-10T15:00:00+03:00
-lastmod: 2022-02-10T15:00:00+03:00
+date: 2023-02-10T15:00:00+03:00
+lastmod: 2023-02-10T15:00:00+03:00
 tags: ['Problem', 'Algorithm', 'Fun']
 cover:
     image: bus-passengers.jpg
