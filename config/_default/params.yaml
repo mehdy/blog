@@ -21,11 +21,46 @@ homeInfoParams:
 socialIcons:
   - name: twitter
     url: https://twitter.com/mehdy314
+  - name: instagram
+    url: https://www.instagram.com/mehdy314
+  - name: facebook
+    url: https://www.facebook.com/mehdy314
+  - name: mastodon
+    url: https://hachyderm.io/@mehdy
+
   - name: stackoverflow
     url: https://stackoverflow.com/users/3654352/mehdy
   - name: github
     url: https://github.com/mehdy
   - name: linkedin
     url: https://www.linkedin.com/in/mehdy314
+  - name: polywork
+    url: https://timeline.mehdy.me
+
+  - name: telegram
+    url: https://t.me/mehdyK
+  - name: substack
+    url: https://mehdy314.substack.com
+  - name: medium
+    url: https://medium.com/@mehdy314
+  - name: dev
+    url: https://dev.to/mehdy
+  - name: goodreads
+    url: https://www.goodreads.com/user/show/33466886-mehdi-khoshnoodi
+
+  - name: lastfm
+    url: https://www.last.fm/user/mehdypi
+  - name: spotify
+    url: https://open.spotify.com/user/1270583647
+  - name: soundcloud
+    url: https://soundcloud.com/mehdy314
+
+  - name: keybase
+    url: https://keybase.io/mehdy
+  - name: matrix
+    url: https://matrix.to/#/@mehdy314:matrix.org
+
+  - name: rss
+    url: https://mehdy.me/en/index.xml
   - name: email
     url: mailto:mehdy.khoshnoody+blog@gmail.com
