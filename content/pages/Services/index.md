@@ -5,19 +5,19 @@ lastmod: 2020-10-23T14:16:00+03:30
 ---
 
 There are three general services I've listed below. See if there's anything suitable for you and if you found one just let me know by sending me an [email](mailto:mehdy.khoshnoody+blog@gmail.com) and we'll discuss it further.  
-If you didn't find any of the services suitalble for you and you were still willing to discuss something on your mind with me just let me know.
+If you didn't find any of the services suitable for you and you were still willing to discuss something on your mind with me just let me know.
 
 > *If you want to get to know me better, you can read [about me]({{< ref "/pages/about-me" >}}).*
 
-## Angel Investment
+## Startup help
 
-If you're looking for someone to invest in your **startup**, by providing both capital and **coaching**. I may be able to help you.
+If you have an idea for a **startup** or you've already started one and you're looking for someone to **discuss** it with and get some **feedback** and **coaching**. I may be able to help you.
 
 ## Professional Consulting
 
 If you're facing these kind of problems I may be able to help you.
 
-* You have a **large software** that it's gettin harder and **harder to develop** it.
+* You have a **large software** that it's getting harder and **harder to develop** it.
 * You're constantly missing **deadlines** and you're team's performance is poor.
 * You have an unstable software to maintain with a lot of **downtimes**.
 * You want to start developing a **new software** and you're not sure about where to start and how.

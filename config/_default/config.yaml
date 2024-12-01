@@ -8,7 +8,8 @@ languageName: English
 
 theme: PaperMod
 
-paginate: 10
+pagination:
+  pagerSize: 10
 
 googleAnalytics: G-BK5V8GNT5V
 
