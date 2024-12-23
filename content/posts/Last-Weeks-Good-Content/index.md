@@ -78,4 +78,4 @@ Make sure to read all three parts.
 
 WOW! I can’t believe I’ve written this much since last week :) If you’ve come this far, I thank you very much and I’d like to know what you think of this issue.
 
-[Subsrcibe](https://mehdy314.substack.com/)!
+[Subscribe](https://mehdy314.substack.com/)!

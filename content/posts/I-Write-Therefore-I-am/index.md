@@ -35,4 +35,4 @@ I would also add my opinion or a recent learning experience if I had one. :)
 
 As I explained the newsletter would shadow my learning process and I would love to have you among other like-minded subscribers to share my journey with you.
 
-[Subsrcibe](https://mehdy314.substack.com/)!
+[Subscribe](https://mehdy314.substack.com/)!
