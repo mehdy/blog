@@ -44,7 +44,7 @@ I stumbled upon [this PR](https://github.com/docker/compose/pull/9687) of the do
 
 ## Let Me Be Your Copilot 🥸
 
-{{< figure src="259-then-and-now.png" alt="Pair Programming: Then vs. Now" link="<https://www.monkeyuser.com/2023/then-and-now/>" >}}
+{{< figure src="259-then-and-now.png" alt="Pair Programming: Then vs. Now" link="https://www.monkeyuser.com/2023/then-and-now/" >}}
 
 ## Dev Tool Startup
 
